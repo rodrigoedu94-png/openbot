@@ -1,0 +1,23 @@
+changelog.d/feat-linux-arm64-remote-desktop.md
+  s_63a03b09aaa5b1::t_474ec140afd415 1-3
+native-runtime.lock.json
+  s_63a03b09aaa5b1::t_da041fdc7ed108 316
+vendor/remote-desktop/patches/sunshine-v2026.516.143833-openbot.patch
+  s_63a03b09aaa5b1::t_fd7f04ae91e9e0 1-34,1478,1545-1554,1556-1567,1580-1581
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ebfdcdbfe7cc34ca9786f15234dd22d29cae13a3",
+  "prompts": {},
+  "sessions": {
+    "s_63a03b09aaa5b1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20399-2f0d-73e3-9ffc-eefa3face842",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "unknown"
+    }
+  }
+}
