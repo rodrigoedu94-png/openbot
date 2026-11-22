@@ -1,0 +1,21 @@
+native-runtime.lock.json
+  s_63a03b09aaa5b1::t_e3c91c81f094b3 316
+vendor/remote-desktop/patches/sunshine-v2026.516.143833-openbot.patch
+  s_63a03b09aaa5b1::t_cf3fbafbbd54b1 1-34,1478,1545-1554,1556-1567,1580-1581
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e5a51bdc3f21995a443768052fa6829ca89f7af",
+  "prompts": {},
+  "sessions": {
+    "s_63a03b09aaa5b1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20399-2f0d-73e3-9ffc-eefa3face842",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "unknown"
+    }
+  }
+}
