@@ -1,0 +1,23 @@
+packages/i18n/src/messages/zh/error/remote.ts
+  s_63a03b09aaa5b1::t_8704371a65b855 22
+.github/workflows/remote-desktop-runtime.yml
+  s_63a03b09aaa5b1::t_8704371a65b855 583-586
+electron-builder.yml
+  s_63a03b09aaa5b1::t_8704371a65b855 158-159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ab94e2992dda3298608efae01ff4dd555db72491",
+  "prompts": {},
+  "sessions": {
+    "s_63a03b09aaa5b1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20399-2f0d-73e3-9ffc-eefa3face842",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "unknown"
+    }
+  }
+}
